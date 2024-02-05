@@ -16,7 +16,7 @@ Guess My Number! is a fun guessing game where the player's objective is to guess
 
 ## Getting Started
 
-To get started, simply open the `index.html` file in your preferred web browser. The game interface will guide you through the process of making guesses and keeping track of your score.
+To experience Guess My Number, play the game online [here](https://ludndev.github.io/web-game-more-or-less/). Simply open the `index.html` file in your preferred web browser for an interactive and enjoyable guessing game. The game interface will guide you through the process of making guesses and keeping track of your score.
 
 ## Game Rules
 
